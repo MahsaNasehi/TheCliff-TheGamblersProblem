@@ -4,11 +4,13 @@ The gambling event is to bet an amount on coin outcomes where heads is a winning
 Bets can be made up to the amount of money that the gambler has, but not an amount that would bring the total to over 100 in the event of a winning bet.
 
 For example, if the gambler has 60, the maximum bet is 40 because anything over 40 would result in a score of over 100 with a win.
-### code in P1
+### code in P1 notebook file
+
 # The Cliff Walking Problem
 Cliff walking involves crossing a gridworld from start to goal while avoiding falling off a cliff.
 
 The player makes moves until they reach the goal.
-### code in P2
+### code in P2 notebook file
+
 ## References
 [1] R. Sutton and A. Barto, “Reinforcement Learning: An Introduction” 2020.
